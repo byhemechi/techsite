@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "name": "splorgetech",
+    "alias": ["splorge.tech", "www.splorge.tech"],
+    "builds": [
+        { "src": "package.json", "use": "@now/next" }
+    ]
+}
