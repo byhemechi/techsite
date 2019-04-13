@@ -16,7 +16,7 @@ export default function navbar (props) {
 	return <nav>
 		<Container>
 			<NavLink href='/' page={props.self}>Intro</NavLink>
-			<NavLink href='/about' page={props.self}>Technical info</NavLink>
+			<NavLink href='/design' page={props.self}>Design</NavLink>
 		</Container>
 	</nav>
 }

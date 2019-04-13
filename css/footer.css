@@ -1,0 +1,13 @@
+footer {
+	border-top: solid 1px #eee;
+}
+
+footer div {
+	padding: 12px;
+}
+
+@media all and (min-width: 1000px) {
+	footer div {
+		padding: 25px;
+	}
+}

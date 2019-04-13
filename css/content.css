@@ -1,0 +1,8 @@
+
+/* Larger than desktop */
+@media (min-width: 1200px) {
+	.row.wide {
+		width: calc(100% + 100px);
+		margin-left: -50px !important;
+	}
+}
